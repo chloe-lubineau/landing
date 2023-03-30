@@ -1,0 +1,8 @@
+.btn-red {
+	background-color: rgb(61, 0, 0);
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: rgb(200, 200, 200);
+	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+}
